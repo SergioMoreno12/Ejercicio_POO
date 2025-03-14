@@ -38,7 +38,7 @@ public class Mascota {
 
     @Override
     public String toString() {
-        return "Libro{" +
+        return "Mascota{" +
                 "edad=" + edad +
                 ", nombre='" + nombre + '\'' +
                 ", especie='" + especie + '\'' +
